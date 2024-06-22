@@ -29,22 +29,8 @@ HTML: For structuring the content.
 CSS: For styling and layout.
 JavaScript: For adding interactivity and dynamic behavior.
 
-How to Run the Projects
-Clone the repository:
-bash
-Copy code:
-git clone https://github.com/yourusername/7Projects.git
-
-Navigate to the project directory:
-bash
-Copy code
-cd 7Projects
-
-->Open the index.html file of the project you want to run in your browser.
-
 Contributions:
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
-
 
 Acknowledgements
 Thanks to the numerous online resources and tutorials that helped me in learning and creating these projects.
