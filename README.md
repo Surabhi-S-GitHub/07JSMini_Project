@@ -29,8 +29,5 @@ HTML: For structuring the content.
 CSS: For styling and layout.
 JavaScript: For adding interactivity and dynamic behavior.
 
-Contributions:
-Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
-
 Acknowledgements
 Thanks to the numerous online resources and tutorials that helped me in learning and creating these projects.
